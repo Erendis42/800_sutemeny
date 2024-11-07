@@ -1,0 +1,33 @@
+Kelt tészták
+
+001. Fonott foszlós kalács
+002. Fahéjas és csokoládés kalács
+003. Orosz húsvéti kalács
+004. Apró fonott kalács (briós)
+005. Ízesbukta
+006. Kelt pite
+007. Túrós lepény sósan
+008. Juhsajtos lepény
+009. Aranygaluska
+010. Darázsfészek
+011. Mákosguba, bobajka (karácsonyi tészta)
+012. Kapros-túrós lepény
+013. Toast
+014. Sós kifli és stangli
+015. Sajtos-sós stangli (sör mellé)
+016. Pozsonyi kétszersült
+017. Húsvéti kenyér
+018. Szász stollni
+019. Mazsolás stollni
+020. Savarin I. (Francia kalács)
+021. Savarin II.
+022. Kuglóf I.
+023. Kuglóf II.
+024. Kuglóf III.
+025. Budai kuglóf
+026. Kakaós kuglóf
+027. Grazi kuglóf
+028. Lipcsei kuglóf
+029. Rácpite
+030. Húsvéti kalács
+031. Kürtőskalács (erdélyi lakodalmas sütemény)
