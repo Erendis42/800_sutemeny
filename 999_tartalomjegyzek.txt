@@ -1,75 +1,89 @@
 Kelt tészták
 
-001. Fonott foszlós kalács
-002. Fahéjas és csokoládés kalács
-003. Orosz húsvéti kalács
-004. Apró fonott kalács (briós)
-005. Ízesbukta
-006. Kelt pite
-007. Túrós lepény sósan
-008. Juhsajtos lepény
-009. Aranygaluska
-010. Darázsfészek
-011. Mákosguba, bobajka (karácsonyi tészta)
-012. Kapros-túrós lepény
-013. Toast
-014. Sós kifli és stangli
-015. Sajtos-sós stangli (sör mellé)
-016. Pozsonyi kétszersült
-017. Húsvéti kenyér
-018. Szász stollni
-019. Mazsolás stollni
-020. Savarin I. (Francia kalács)
-021. Savarin II.
-022. Kuglóf I.
-023. Kuglóf II.
-024. Kuglóf III.
-025. Budai kuglóf
-026. Kakaós kuglóf
-027. Grazi kuglóf
-028. Lipcsei kuglóf
-029. Rácpite
-030. Húsvéti kalács
-031. Kürtőskalács (erdélyi lakodalmas sütemény)
+	001. Fonott foszlós kalács
+	002. Fahéjas és csokoládés kalács
+	003. Orosz húsvéti kalács
+	004. Apró fonott kalács (briós)
+	005. Ízesbukta
+	006. Kelt pite
+	007. Túrós lepény sósan
+	008. Juhsajtos lepény
+	009. Aranygaluska
+	010. Darázsfészek
+	011. Mákosguba, bobajka (karácsonyi tészta)
+	012. Kapros-túrós lepény
+	013. Toast
+	014. Sós kifli és stangli
+	015. Sajtos-sós stangli (sör mellé)
+	016. Pozsonyi kétszersült
+	017. Húsvéti kenyér
+	018. Szász stollni
+	019. Mazsolás stollni
+	020. Savarin I. (Francia kalács)
+	021. Savarin II.
+	022. Kuglóf I.
+	023. Kuglóf II.
+	024. Kuglóf III.
+	025. Budai kuglóf
+	026. Kakaós kuglóf
+	027. Grazi kuglóf
+	028. Lipcsei kuglóf
+	029. Rácpite
+	030. Húsvéti kalács
+	031. Kürtőskalács (erdélyi lakodalmas sütemény)
 
 Zsírban sült tészták
 
-032. Szalagos fánk
-033. Alma bundában
-034. „Kirántott egér“ (csokoládéöntettel)
-035. Forgácsfánk
-036. Tejfeles fánk
-037. Cseh fánk (tarkedli)
-038. Túrós kolbász
-039. Túrófánk
-040. Túrós krokett
-041. Metélt fánk
-042. Rózsafánk
-043. Pészah kremzli
-044. Rizspogácsa
-045. Gyümölcsös rizsgombóc
-046. Anyós pirulái
-047. Tyúkláb
-048. Alma pongyolában
-049. Banán à la bonne femme
-050. Sült banán
-051. Bundás narancsszeletek
-052. Gesztenyepogácsa
-053. Részeg barát
+	032. Szalagos fánk
+	033. Alma bundában
+	034. „Kirántott egér“ (csokoládéöntettel)
+	035. Forgácsfánk
+	036. Tejfeles fánk
+	037. Cseh fánk (tarkedli)
+	038. Túrós kolbász
+	039. Túrófánk
+	040. Túrós krokett
+	041. Metélt fánk
+	042. Rózsafánk
+	043. Pészah kremzli
+	044. Rizspogácsa
+	045. Gyümölcsös rizsgombóc
+	046. Anyós pirulái
+	047. Tyúkláb
+	048. Alma pongyolában
+	049. Banán à la bonne femme
+	050. Sült banán
+	051. Bundás narancsszeletek
+	052. Gesztenyepogácsa
+	053. Részeg barát
 
 Rétestészták
 
-054. Kígyórétes
-055. Rántásos rétes
+	054. Kígyórétes
+	055. Rántásos rétes
 
 Hajtogatott leveles vajastészták
 
-056. Krémes
-057. Franciakrémes
-058. Habtekercs
-059. Búrkifli
-060. Hablepény
-061. Hablepény gyümölccsel vagy kakaóval
-062. Tiroli rétes
+	056. Krémes
+	057. Franciakrémes
+	058. Habtekercs
+	059. Búrkifli
+	060. Hablepény
+	061. Hablepény gyümölccsel vagy kakaóval
+	062. Tiroli rétes
 
 Hájas tészták
+
+	063. Hájas
+	064. Hájas tészta krémeslapnak
+	065. Hájas tészta (más módon)
+	066. Hájas sütemény
+	067. Hájas tészta (kisebb adag)
+	068. Leveles hájas tészta
+	069. Almás béles
+	070. Hájas pogácsa I.
+	071. Hájas pogácsa II.
+	072. Hájas kifli
+	073. Kiadós hájas kifli
+
+Piskóták
