@@ -61,3 +61,15 @@ Rétestészták
 
 054. Kígyórétes
 055. Rántásos rétes
+
+Hajtogatott leveles vajastészták
+
+056. Krémes
+057. Franciakrémes
+058. Habtekercs
+059. Búrkifli
+060. Hablepény
+061. Hablepény gyümölccsel vagy kakaóval
+062. Tiroli rétes
+
+Hájas tészták
