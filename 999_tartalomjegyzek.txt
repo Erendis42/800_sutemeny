@@ -87,6 +87,7 @@ Hájas tészták
     073. Kiadós hájas kifli
 
 Piskóták
+
     074. Vizes piskóta
     075. Mokkaszelet vizes piskótából
     076. Gesztenyés piskótatekercs
@@ -186,3 +187,114 @@ Piskóták
     170. Nyúlderék
 
 Torták
+
+    171. Linzertorta
+    172. Jogásztorta
+    173. Bosnyáktorta
+    174. Mandulás gesztenyetorta
+    175. Stefánia-torta
+    176. Frici-torta
+    177. Lévigné-torta
+    178. Mandulatorta
+    179. Irén-torta
+    180. Karácsonyi torta
+    181. Vadásztorta
+    182. Kenyértorta
+    183. Attila tortája
+    184. Olgi-torta
+    185. Diáktorta
+    186. Mandulás csokoládétorta
+    187. Datolyatorta I.
+    188. Datolyatorta II.
+    189. Omlós tortácska
+    190. Pischinger-torta
+    191. Mikádó-torta
+    192. Kongótorta
+    193. Mogyorótorta
+    194. Mogyorótorta tojás nélkül
+    195. Mogyorókrémtorta
+    196. Pirított mogyorótorta
+    197. Lili-torta
+    198. Sümegi torta
+    199. Margit-torta
+    200. Olympia-torta (diótorta)
+    201. Töltött diótorta
+    202. Diótorta
+    203. Diótorta kakaós bevonattal
+    204. Diótorta fehér mázzal
+    205. Diótorta diókrémes bevonattal
+    206. Diótorta kávékrémmel
+    207. Diótorta másként
+    208. Jetty-torta
+    209. Csodatorta
+    210. Gesztenyetorta I.
+    211. Gesztenyetorta II.
+    212. Gesztenyekrémtorta
+    213. Töltött gesztenyetorta
+    214. Gesztenyekrémes mazsolatorta
+    215. Francia gesztenyetorta
+    216. Fedák-torta
+    217. Boglárka tortája
+    218. Hideg gesztenyetorta
+    219. Házitorta
+    220. Tűzön felvert piskóta
+    221. Parfétorta
+    222. Mákos torta
+    223. Krémtorta
+    224. Olcsó torta
+    225. Kétszersülttorta
+    226. Olcsó kávékrémtorta
+    227. Arab kávétorta (különlegesen finom)
+    228. Mokkatorta
+    229. Kávékrémtorta
+    230. Habcsóktorta
+    231. Csokoládétortácskák
+    232. Csokoládétorta I.
+    233. Csokoládétorta II.
+    234. Csokoládétorta III.
+    235. Finom csokoládétorta
+    236. Kakaótorta
+    237. Kakaótorta burgonyás krémmel
+    238. Kakaókrémes torta
+    239. Sacher-torta (eredeti bécsi recept)
+    240. Sacher csokoládétorta
+    241. Dobostorta
+    242. Almatorta
+    243. Ananásztorta
+    244. Citromtorta
+    245. Cseresznyés torta
+    246. Epertorta (tejszínhabos)
+    247. Epres piskótatorta
+    248. Eper- vagy málnakrémes csokoládétorta I.
+    249. Eper- vagy málnakrémes csokoládétorta II.
+    250. Habos málnatorta
+    251. Körtetorta
+    252. Őszibaracktorta
+    253. Szilvatorta
+    254. Grilláskrémtorta
+    255. Puncstorta
+    256. Karamelltorta
+    257. Túrótorta
+    258. Túrótorta másként
+    259. Túrókrémtorta
+    260. Mazsolás túrótorta
+    261. Túrós almatorta
+    262. Túrókrémes gyümölcstorta
+    263. Habtorta
+    264. Napóleon-torta
+    265. Gyúrt torta
+    266. Egytojásos torta
+
+    Tortabevonatok
+
+        267. Fondant
+        268. Cukormáz vagy citromos máz
+        269. Csokimáz
+        270. Csokibevonat
+        271. Csokoládés cukormáz
+        272. Kávés bevonat
+        273. Pörkölt cukormáz
+        274. Puncstortamáz
+        275. Rumos máz
+
+Kavart tészták
