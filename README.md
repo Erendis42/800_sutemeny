@@ -43,6 +43,5 @@ Folyamatban:\
 &nbsp;&nbsp;&nbsp;&nbsp;Morzsák\
 &nbsp;&nbsp;&nbsp;&nbsp;Vegyes édességek\
 &nbsp;&nbsp;&nbsp;&nbsp;Édes mártások, sodók\
-&nbsp;&nbsp;&nbsp;&nbsp;Fagylaltok (ettől a résztől nem kell túl sokat várni)\
-&nbsp;&nbsp;&nbsp;&nbsp;Sütemények cukor nélkül (ettől úgyszintén)
-  
+&nbsp;&nbsp;&nbsp;&nbsp;Fagylaltok\
+&nbsp;&nbsp;&nbsp;&nbsp;Sütemények cukor nélkül  
