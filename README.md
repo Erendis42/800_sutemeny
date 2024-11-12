@@ -2,8 +2,10 @@
 
 Édesanyám receptkönyve, mostanra lapjaira esett szét, de szeretném megőrizni az utókornak, ezért úgy döntöttem, hogy begépelem.\
 A szövegért nem tudok felelősséget vállalni, minden igyekezetem ellenére nem 1000%, hogy mindent pontosan sikerül bepötyögnöm...\
-De amint időm engedi, bescannelem az eredeti könyvet, és ugyanide feltöltöm .pdf formátumban.\
-Ez több mint valószínű, hogy az ünnepek előtt már sajnos nem fog megtörténni, de jobb későn, mint soha! :-)
+Szerencsére a google a barátom, ezért az 1990-es, 5. kiadást megtaláltam .pdf formátumban,\
+ebben viszont sajnos nem tudtok szövegre keresni, ezért a gépelést folytatom, és ezt szintén itthagyom Nektek.\
+
+Kellemes Ünnepet! :-)
 
 Péter Jánosné gyűjtése
 
