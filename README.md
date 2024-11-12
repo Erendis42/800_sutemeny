@@ -9,8 +9,7 @@ A szövegért nem tudok felelősséget vállalni, minden igyekezetem ellenére n
 ### Update:
 Szerencsére a google a barátom, ezért az 1990-es, 5. kiadást megtaláltam .pdf formátumban,\
 ebben viszont sajnos nem tudtok szövegre keresni, ezért a gépelést folytatom, és ezt szintén itthagyom Nektek.\
-A könyvben pedig tudjátok ellenőrizni a kiválasztott receptet, valamint ha hibát találtok a gépelt szövegben,\
-megköszönöm, ha jelzitek felém, és akkor kijavítom.
+A könyvben pedig tudjátok ellenőrizni a kiválasztott receptet, bár nem tudom, mennyi különbség van a kiadások között — még nem volt lelki erőm végigbogarászni.
 
 ### Kellemes Ünnepet! :-)
 
