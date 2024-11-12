@@ -1,7 +1,7 @@
 # Süteményeskönyv - 800 recept
 Péter Jánosné gyűjtése\
 2. kiadás\
-Budapest, 1988\
+Budapest, 1988
 
 Édesanyám receptkönyve, mostanra lapjaira esett szét, de szeretném megőrizni az utókornak, ezért úgy döntöttem, hogy begépelem.\
 A szövegért nem tudok felelősséget vállalni, minden igyekezetem ellenére nem 1000%, hogy mindent pontosan sikerül bepötyögnöm...\
