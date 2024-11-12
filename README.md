@@ -1,6 +1,9 @@
 # Süteményeskönyv - 800 recept
 
-Édesanyám receptkönyve, mostanra lapjaira esett szét, de szeretném megőrizni az utókornak, ezért úgy döntöttem, hogy begépelem.
+Édesanyám receptkönyve, mostanra lapjaira esett szét, de szeretném megőrizni az utókornak, ezért úgy döntöttem, hogy begépelem.\
+A szövegért nem tudok felelősséget vállalni, minden igyekezetem ellenére nem 1000%, hogy mindent pontosan sikerül bepötyögnöm...\
+De amint időm engedi, bescannelem az eredeti könyvet, és ugyanide feltöltöm .pdf formátumban.\
+Ez több mint valószínű, hogy az ünnepek előtt már sajnos nem fog megtörténni, de jobb későn, mint soha! :-)
 
 Péter Jánosné gyűjtése
 
