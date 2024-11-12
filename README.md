@@ -4,11 +4,12 @@
 ### Budapest, 1988
 
 Édesanyám receptkönyve, mostanra lapjaira esett szét, de szeretném megőrizni az utókornak, ezért úgy döntöttem, hogy begépelem.\
-A szövegért nem tudok felelősséget vállalni, minden igyekezetem ellenére nem 1000%, hogy mindent pontosan sikerül bepötyögnöm...\
+A szövegért nem tudok felelősséget vállalni, minden igyekezetem ellenére nem 1000%, hogy mindent pontosan sikerült bepötyögnöm...
 
 ### Update:
 Szerencsére a google a barátom, ezért az 1990-es, 5. kiadást megtaláltam .pdf formátumban,\
-ebben viszont sajnos nem tudtok szövegre keresni, ezért a gépelést folytatom, és ezt szintén itthagyom Nektek.
+ebben viszont sajnos nem tudtok szövegre keresni, ezért a gépelést folytatom, és ezt szintén itthagyom Nektek.\
+Ebben tudjátok ellenőrizni a kiválasztott receptet, valamint ha hibát találtok, megköszönöm, ha jelzitek felém és akkor kijavítom.
 
 ### Kellemes Ünnepet! :-)
 
