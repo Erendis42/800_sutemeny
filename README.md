@@ -25,10 +25,10 @@ Elkészült:
 &nbsp;&nbsp;&nbsp;&nbsp;Piskóták\
 &nbsp;&nbsp;&nbsp;&nbsp;Torták\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tortabevonatok\
+&nbsp;&nbsp;&nbsp;&nbsp;Kavart tészták\
 \
 Folyamatban:\
 \
-&nbsp;&nbsp;&nbsp;&nbsp;Kavart tészták\
 &nbsp;&nbsp;&nbsp;&nbsp;Omlós tészták vagy linzerek\
 &nbsp;&nbsp;&nbsp;&nbsp;Élesztős omlós tészták\
 &nbsp;&nbsp;&nbsp;&nbsp;Aprósütemények\
