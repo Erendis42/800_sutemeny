@@ -298,3 +298,69 @@ Torták
         275. Rumos máz
 
 Kavart tészták
+
+    276. Diós lepény
+    277. Kavart diós
+    278. Svájci diós szelet
+    279. Mandulás szelet
+    280. Mandulás mignon
+    281. Mogyorós kifli
+    282. Rumos hold (gyors és finom)
+    283. Erezett tészta
+    284. Vasutasszelet
+    285. Máklepény
+    286. Mákpite
+    287. Mákos kenyér
+    288. Kavart olcsó tészta
+    289. Tejfölös lepény
+    290. Kefíres sütemény
+    291. Bögrés
+    292. Poharas tészta
+    293. Ánizskenyér
+    294. Fehér tészta
+    295. Király szeletek
+    296. Konyakos kocka
+    297. Diákkenyér
+    298. Püspökkenyér (egytojásos)
+    299. Egyensúly sütemény
+    300. Kavart tészta
+    301. 5, 4, 3, 2, 1, fél
+    302. Almás szelet
+    303. Kavart almás sütemény
+    304. Citromos szelet I.
+    305. Citromos szelet II.
+    306. Meggylepény
+    307. Epermignon
+    308. Gyümölcsös lepény
+    309. Gyümölcsös piskóta
+    310. Finom gyümölcskenyér
+    311. Sárgabaracklepény
+    312. Bécsi barackos lepény
+    313. Anna őszibaracklepénye
+    314. Édesanyám tésztája
+    315. Mexikói esküvői sütemény (Csomagolható)
+    316. Finom sütemény
+    317. Nagyon finom sütemény
+    318. Csokoládékenyér
+    319. Vajas csók
+    320. Kakaólepény
+    321. Kakaós csók
+    322. Kakaós kocka
+    323. Kakaós koszorú
+    324. Kakaós sütemény
+    325. Kakaós szeletek
+    326. Kakaós tortaszeletkék
+    327. Kakaós lepény
+    328. Négerszelet
+    329. Rumos kockák
+    330. Csokis süti
+    331. Dominósütemény
+    332. Ila-szelet
+    333. Csokoládés kenyér
+    334. Csokoládés szelet
+    335. Olcsó sütemény
+    336. Puncsos sütemény
+    337. Képviselőfánk
+    338. Sajtos fánk
+
+Omlós tészták vagy linzerek
