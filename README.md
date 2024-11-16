@@ -11,7 +11,7 @@ Szerencsére a google a barátom, ezért az 1990-es, 5. kiadást megtaláltam .p
 ebben viszont sajnos nem tudtok szövegre keresni, ezért a gépelést folytatom, és ezt szintén itthagyom Nektek.\
 A könyvben pedig tudjátok ellenőrizni a kiválasztott receptet, bár nem tudom, mennyi különbség van a kiadások között — még nem volt lelki erőm végigbogarászni.
 
-### Kellemes Ünnepet! :-)
+### Kellemes Ünnepeket! :-)
 
 Elkészült:
 
@@ -26,10 +26,10 @@ Elkészült:
 &nbsp;&nbsp;&nbsp;&nbsp;Torták\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tortabevonatok\
 &nbsp;&nbsp;&nbsp;&nbsp;Kavart tészták\
+&nbsp;&nbsp;&nbsp;&nbsp;Omlós tészták vagy linzerek\
 \
 Folyamatban:\
 \
-&nbsp;&nbsp;&nbsp;&nbsp;Omlós tészták vagy linzerek\
 &nbsp;&nbsp;&nbsp;&nbsp;Élesztős omlós tészták\
 &nbsp;&nbsp;&nbsp;&nbsp;Aprósütemények\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sós aprósütemények\
