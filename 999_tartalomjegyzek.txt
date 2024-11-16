@@ -467,3 +467,33 @@ Omlós tészták vagy linzerek
     438. Kókuszkocka
 
 Élesztős omlós tészták
+
+    439. Diós és mákos patkó (egyszerű)
+    440. Diós és mákos patkó (másként)
+    441. Diós és mákos patkó Ínyes mester módján
+    442. Mákos, diós bejgli
+    443. Pozsonyi kifli
+    444. Porhanyós kifli
+    445. Tejfölös kifli
+    446. Gesztenyekifli
+    447. Debreceni perec (eredeti debreceni recept)
+    448. Diós csiga
+    449. Sült kókuszos tekercs
+    450. Kemenesi béles
+    451. Dió- vagy mogyoróbéles
+    452. Óvári szelet
+    453. Szegedi lepény
+    454. Vízenkullogó
+    455. Pasci süteménye
+    456. Női szeszély
+    457. Angol perecek
+    458. Zserbószelet
+    459. Almás pite
+    460. Almás lepény
+    461. Pehelykönnyű túrós pite
+    462. Túrós bukta (nagyon gyors)
+    463. Túrós lepény (egyszerű)
+
+Aprósütemények
+
+    Sós aprósütemények
