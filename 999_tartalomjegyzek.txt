@@ -364,3 +364,106 @@ Kavart tészták
     338. Sajtos fánk
 
 Omlós tészták vagy linzerek
+
+    339. Omlós tészta (alaptészta)
+    340. Tealinzer
+    341. Rácsos szelet
+    342. Olcsó rácsos
+    343. Rácsos citromos szelet
+    344. Rácsos linzer
+    345. Rácsos linzer másként
+    346. Egyszerű rácsos tészta
+    347. Finom diós rácsos tészta
+    348. Rücskös tészta
+    349. Lemezes linzer (nagyon mutatós)
+    350. Fahéjas linzer
+    351. Citromos szelet (nagyon mutatós)
+    352. Habos linzer
+    353. Tükörlepény (nagymamám receptje)
+    354. Katóka
+    355. Mazsolás habos lepény
+    356. Túrós lepény
+    357. Túrós lepény másként
+    358. Túrós pite
+    359. Rákóczi túrós lepény (nagyon finom)
+    360. Kapros-túrós lepény
+    361. Túrós lepény Éva módra (kiadós)
+    362. Kedvenc szelet
+    363. Kirándulók süteménye
+    364. Omlós krémes
+    365. Feri-lepény
+    366. Hatlapos
+    367. Finom habos sütemény
+    368. Flódni
+    369. Kanonoklepény
+    370. Skót krémes
+    371. Orléans-szelet
+    372. Jókai-szelet (Orléans-tészta)
+    373. Sárgarépa-sütemény
+    374. Citromos hold
+    375. Diós kocka
+    376. Diós szelet
+    377. Diós pogácsa
+    378. Diós béles
+    379. Bécsi diós
+    380. Berlini sütemény
+    381. Mágnás diós pite
+    382. Diós teasütemény (sokáig eláll)
+    383. Háziasszony remeke
+    384. Finom linzer
+    385. Diós csokoládés linzer
+    386. Párizsi kocka
+    387. Késmárk-szelet
+    388. Krinolinszelet
+    389. Szabadkai sütemény
+    390. Rumos szelet
+    391. Lottó-tészta
+    392. Tiroli rétes
+    393. Medvetalp
+    394. Linzerkoszorúcskák
+    395. Vaníliás csillag
+    396. Kevert linzer
+    397. Bécsi szeletek
+    398. Habos almás lepény
+    399. Finom almás lepény
+    400. Almás sütemény
+    401. Budai almás lepény
+    402. Almás béles
+    403. Almás bukta (omlós tésztából)
+    404. Epres lepény
+    405. Málnalepény
+    406. Szilvás lepény
+    407. Ribizlis vagy málnás lepény
+    408. Bécsi gyümölcspite
+    409. Őszibarackos lepény
+    410. Angol koszorú (Hilda néni receptje)
+    411. Citromos keksz (kiadós)
+    412. Citromkenyér
+    413. Szerelmeslevél
+    414. Finom bukta
+    415. Linzerperec
+    416. Angol teasütemény
+    417. Vánkoscsücske omlós tésztából
+    418. Kávés rudacskák
+    419. Omlós korongok
+    420. Citromos korongok
+    421. Vaníliás koszorú
+    422. Hórudacskák (tojás nélkül)
+    423. Vajastáska
+    424. Non plus ultra (sokáig eláll, kiadós sütemény)
+    425. Mákos csomag
+    426. Szilveszteri sütemény
+    427. Vaníliás teasütemény
+    428. Gyümölcskosárka
+    429. Diós lapok
+    430. Isli fánk
+    431. Legényfogó
+    432. Vajas kenyér
+    433. Csokoládés aprósütemény
+    434. Karácsonyi pástétom
+    435. Mandulás linzer
+    436. Kakaós szelet
+    437. Kakaós szelet habbal
+    438. Kókuszkocka
+
+Élesztős omlós tészták
