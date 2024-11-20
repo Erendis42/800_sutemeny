@@ -28,12 +28,12 @@ Elkészült:
 &nbsp;&nbsp;&nbsp;&nbsp;Kavart tészták\
 &nbsp;&nbsp;&nbsp;&nbsp;Omlós tészták vagy linzerek\
 &nbsp;&nbsp;&nbsp;&nbsp;Élesztős omlós tészták\
-\
-Folyamatban:\
-\
 &nbsp;&nbsp;&nbsp;&nbsp;Aprósütemények\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sós aprósütemények\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Édes aprósütemények\
+\
+Folyamatban:\
+\
 &nbsp;&nbsp;&nbsp;&nbsp;Szalalkális tészták\
 &nbsp;&nbsp;&nbsp;&nbsp;Mézestészták\
 &nbsp;&nbsp;&nbsp;&nbsp;Burgonyás tészták\
