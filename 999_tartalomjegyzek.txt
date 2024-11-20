@@ -36,7 +36,7 @@ Zsírban sült tészták
 
     032. Szalagos fánk
     033. Alma bundában
-    034. „Kirántott egér“ (csokoládéöntettel)
+    034. „Kirántott egér” (csokoládéöntettel)
     035. Forgácsfánk
     036. Tejfeles fánk
     037. Cseh fánk (tarkedli)
@@ -115,7 +115,7 @@ Piskóták
     098. Belgrádi sütemény
     099. Mandulás, csokoládés piskóta
     100. Gréti néni süteménye
-    101. „Világ legjobbja“ (liszt nélkül)
+    101. „Világ legjobbja” (liszt nélkül)
     102. Mandulás szelet
     103. Bohémszelet
     104. Mogyorókrémes rolád
@@ -497,3 +497,134 @@ Omlós tészták vagy linzerek
 Aprósütemények
 
     Sós aprósütemények
+
+        464. Pogácsa
+        465. Sós pogácsa
+        466. Tejfölös pogácsa (egyszerűbb)
+        467. Tejfölös pogácsa (gazdagabb)
+        468. Tejfölös pogácsa sajttal
+        469. Sós, vajaspogácsa
+        470. Vajaspogácsa
+        471. Vajaspogácsa másként
+        472. Hússal vagy sonkával töltött vajaspogácsa
+        473. Sonkás pogácsa
+        474. Káposztás pogácsa
+        475. Barna pogácsa
+        476. Zsúrpogácsa
+        477. Finom pogácsa
+        478. Sajtos pogácsa
+        479. Kiadós sajtos pogácsa
+        480. Sajtos pogácsa kétféle sajttal
+        481. Emeletes sajtos pogácsa
+        482. Juhtúrós pogácsa
+        483. Töltött túrós pogácsa
+        484. Túrópogácsa
+        485. Hajtogatott túrós pogácsa
+        486. Tepertős pogácsa (nagyobb adag)
+        487. Omlós tepertős pogácsa
+        488. Leveles tepertős pogácsa I.
+        489. Leveles tepertős pogácsa II.
+        490. Leveles tepertős pogácsa III.
+        491. Réteges tepertős pogácsa
+        492. Hortobágyi tepertős pogácsa
+        493. Egyszerű tepertős pogácsa
+        494. Pástétomkosárkák
+        495. Sós rudak
+        496. Sós rudacskák
+        497. Finom sós rúd
+        498. Sós ropogós (olcsó, finom)
+        499. Sós stangli
+        500. Sajtos stangli
+        501. Sajtos rúd
+        502. Sajtos-sós sütemény
+        503. Sajtos ropogós
+        504. Sajttal töltött rudacskák
+        505. Juhsajtos rúd
+        506. Sós perec
+        507. Sajtos tallér
+        508. Török sajttekercsek
+        509. Kanadai quiche (ejtsd: kis)
+        510. Sonkás kifli (borkorcsolya)
+        511. Sonkával töltött kifli
+        512. Sörkifli
+        513. Omlós kifli
+        514. Sonkás fánk
+        515. Borsos koszorúcskák
+        516. Nimródtáska
+        517. Sós és sajtos teasütemény
+        518. Francia sajtos keksz
+        519. Sajtos aprósütemény
+        520. Sajtos keksz
+        521. Sós keksz
+        522. Borgörgető
+
+    Édes aprósütemények
+
+        523. Darált tészta
+        524. Aprósütemény
+        525. „Őszibarack“
+        526. Mandulás perec
+        527. Mandulaforgács
+        528. Belgrádi kenyér
+        529. Csemege kétszersült (Sokáig eltartható teasütemény)
+        530. Fahéjas csemege
+        531. Atti-szelet
+        532. Datolyaszelet
+        533. Császárfánk
+        534. Orosz teasütemény
+        535. Svábkenyér
+        536. Mandulás kosárkák
+        537. Emília
+        538. Ribizkés kosárka
+        539. Fahéjas perecek
+        540. Mandulás félholdak
+        541. Svájci sütemény
+        542. Budai sütemény (sokáig eltartható)
+        543. Málna- vagy eperszelet
+        544. Ánizsívek
+        545. Mogyorós, csokoládés habos cső
+        546. Olcsó kifli
+        547. Mandulás kiflicskék
+        548. Vaníliás kiflik I.
+        549. Vaníliás kiflik II.
+        550. Vaníliás kiflicskék csokoládéval
+        551. Diós kifli
+        552. Diós kiflicskék (tojás nélkül)
+        553. Diós vagy mákos kifli
+        554. Lili-kifli (könnyű, igen finom)
+        555. Gesztenyés kifli
+        556. Háromszög kifli
+        557. Finom kifli
+        558. Kitűnő vajas kifli
+        559. Csodakifli
+        560. Tojás nélküli kifli
+        561. Ánizsgyűrűk
+        562. Mogyorós kétszersült
+        563. Keksz (Vilmos-sütemény)
+        564. Keksz
+        565. Keksz másként
+        566. Keksz teához
+        567. Citromos keksz teához
+        568. Omlós keksz
+        569. Darált keksz I.
+        570. Darált keksz II.
+        571. Kókuszos keksz
+        572. Estike
+        573. Körtés batyu
+        574. Tojásos „plecerli”
+        575. Cukros perec
+        576. Almafánk
+        577. Princessz fánk
+        578. „Gombatészta”
+        579. Omlós rudacskák
+        580. Birsalmás teasütemény
+        581. Csíramálé (nagymamám receptje)
+        582. Gesztenyealagút
+        583. Gesztenyekúp
+        584. Kakaós krémes vagy vendégváró (nagyon finom és mutatós)
+        585. Tokaji szelet
+        586. Tojásos főtt perec
+        587. Tiroli fánk
+        588. Csokoládészeletek
+
+Szalalkális tészták
