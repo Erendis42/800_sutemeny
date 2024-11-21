@@ -628,3 +628,20 @@ Aprósütemények
         588. Csokoládészeletek
 
 Szalalkális tészták
+
+    589. Angol szelet
+    590. Attila kedvence
+    591. Szalalkális darált keksz
+    592. Finom sütemény
+    593. Hókocka
+    594. Párizsi piskóta
+    595. Rumos szelet
+    596. Szalalkális krémes (nagyon finom és könnyű)
+    597. Szalalkális krémes másként
+    598. Szalalkális szelet
+    599. Szalalkális aprósütemény (nagyon kiadós)
+    600. Szalalkális finom sajtos pogácsa
+    601. Szalalkális sajtos perec
+    602. Szalalkális sajtos perec másként
+
+Mézestészták
