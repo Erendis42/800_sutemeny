@@ -31,10 +31,10 @@ Elkészült:
 &nbsp;&nbsp;&nbsp;&nbsp;Aprósütemények\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sós aprósütemények\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Édes aprósütemények\
+&nbsp;&nbsp;&nbsp;&nbsp;Szalalkális tészták\
 \
 Folyamatban:\
 \
-&nbsp;&nbsp;&nbsp;&nbsp;Szalalkális tészták\
 &nbsp;&nbsp;&nbsp;&nbsp;Mézestészták\
 &nbsp;&nbsp;&nbsp;&nbsp;Burgonyás tészták\
 &nbsp;&nbsp;&nbsp;&nbsp;Palacsinták\
