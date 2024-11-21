@@ -713,3 +713,16 @@ Burgonyás tészták
     664. Kiadós teasütemény
 
 Palacsinták
+
+    665. Palacsinta vaníliás krémmel
+    666. Rántott almás palacsinta
+    667. Szentgyörgyi palacsinta (tripofóbiások ne olvassák el!)
+    668. Nyári túrós palacsinta
+    669. Francia palacsinta
+    670. Bajor palacsinta
+    671. Sonkás palacsinta
+    672. Mágnáspalacsinta
+    673. Különleges palacsinta
+    674. Palacsinta kukoricalisztből
+
+Felfújtak és pudingok
