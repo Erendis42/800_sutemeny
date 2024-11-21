@@ -36,10 +36,10 @@ Elkészült:
 &nbsp;&nbsp;&nbsp;&nbsp;Szalalkális tészták\
 &nbsp;&nbsp;&nbsp;&nbsp;Mézestészták\
 &nbsp;&nbsp;&nbsp;&nbsp;Burgonyás tészták\
+&nbsp;&nbsp;&nbsp;&nbsp;Palacsinták\
 \
 Folyamatban:\
 \
-&nbsp;&nbsp;&nbsp;&nbsp;Palacsinták\
 &nbsp;&nbsp;&nbsp;&nbsp;Felfújtak és pudingok\
 &nbsp;&nbsp;&nbsp;&nbsp;Morzsák\
 &nbsp;&nbsp;&nbsp;&nbsp;Vegyes édességek\
