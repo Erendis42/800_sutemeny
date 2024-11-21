@@ -689,3 +689,27 @@ Mézestészták
     643. Hamis mézeskalács
 
 Burgonyás tészták
+
+    644. Mandulás burgonyatorta
+    645. Sajtos rúd burgonyás tésztából
+    646. Burgonyás sütemény (egyszerű)
+    647. Burgonyás túrós teasütemény
+    648. Burgonyás vajaspogácsa
+    649. Burgonyás túrós lepény (egyszerű, finom)
+    650. Túrólepénykék (ebédételnek is finom)
+    651. Kakaós burgonyás szelet
+    652. Burgonyafánk
+    653. Sonkás burgonyafánk
+    654. Krumplifánk
+    655. Sajtos burgonyatekercs
+    656. Burgonyás patkók
+    657. Olcsó vasárnapi szelet
+    658. Szabolcsi lepény
+    659. Őszibarackfánk
+    660. Töltött burgonyagombóc
+    661. Sült burgonyás gombóc
+    662. Leveles krumplis pogácsa
+    663. Burgonyapogácsa
+    664. Kiadós teasütemény
+
+Palacsinták
