@@ -13,6 +13,8 @@ A könyvben pedig tudjátok ellenőrizni a kiválasztott receptet, bár nem tudo
 
 ### Kellemes Ünnepeket! :-)
 
+(Megj.: Karácsonyra mi a 636-os mézes zserbót szoktuk készíteni, a 637-es krémjével, mert úgy egyszerűbb, mázat pedig nem teszünk rá.)
+
 Elkészült:
 
 &nbsp;&nbsp;&nbsp;&nbsp;Előszó\
