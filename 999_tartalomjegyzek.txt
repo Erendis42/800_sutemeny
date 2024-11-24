@@ -726,3 +726,52 @@ Palacsinták
     674. Palacsinta kukoricalisztből
 
 Felfújtak és pudingok
+
+    675. Borfelfújt
+    676. Banánfelfújt
+    677. Csokoládés metéltfelfújt
+    678. Rizsfelfújt
+    679. Rizsfelfújt másként
+    680. Rizsfelfújt almával
+    681. Almás rizsfelfújt
+    682. Darafelfújt
+    683. Barackfelfújt
+    684. Rumfelfújt
+    685. Vaníliás kiflifelfújt
+    686. Vaníliafelfújt
+    687. Besamelfelfújt
+    688. Zsemlefelfújt
+    689. Narancsfelfújt
+    690. Citromfelfújt I.
+    691. Citromfelfújt II.
+    692. Almafelfújt
+    693. Krémfelfújt
+    694. Túrófelfújt
+    695. Felfújt gyermekeknek
+    696. Diófelfújt
+    697. Karamellfelfújt
+    698. Cseresznyefelfújt
+    699. Eperfelfújt
+    700. Tojásfelfújt
+    701. Gyümölcsfelfújt
+    702. Mákfelfújt
+    703. Mágnásfelfújt
+    704. Csodafelfújt
+    705. Csokoládéfelfújt
+    706. Augsburgi felfújt
+    707. Francia felfújt
+    708. Habfelfújt
+    709. Kávéfelfújt
+    710. Mogyoró- vagy mandulafelfújt
+    711. Borfelfújt
+    712. Tálban főtt kifli
+    713. Piskótafelfújt
+    714. Nagyon finom és egyszerű sütemény
+    715. Angol tészta
+    716. Vörösboros zsemleszeletek köntösben
+    717. Máglyarakás
+    718. Cukorpuding
+    719. Csokoládépuding
+    720. Darapuding
+
+Morzsák
