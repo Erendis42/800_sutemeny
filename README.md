@@ -37,10 +37,10 @@ Elkészült:
 &nbsp;&nbsp;&nbsp;&nbsp;Mézestészták\
 &nbsp;&nbsp;&nbsp;&nbsp;Burgonyás tészták\
 &nbsp;&nbsp;&nbsp;&nbsp;Palacsinták\
+&nbsp;&nbsp;&nbsp;&nbsp;Felfújtak és pudingok\
 \
 Folyamatban:\
 \
-&nbsp;&nbsp;&nbsp;&nbsp;Felfújtak és pudingok\
 &nbsp;&nbsp;&nbsp;&nbsp;Morzsák\
 &nbsp;&nbsp;&nbsp;&nbsp;Vegyes édességek\
 &nbsp;&nbsp;&nbsp;&nbsp;Édes mártások, sodók\
