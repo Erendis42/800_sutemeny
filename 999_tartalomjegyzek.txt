@@ -784,3 +784,45 @@ Morzsák
     726. Túrómorzsa
 
 Vegyes édességek
+
+    727. Vaníliás gyümölcsrizs
+    728. Részeges piskóta
+    729. Váratlanvendég-krém
+    730. Citromos darahab
+    731. Hideg gyümölcsrizs
+    732. Rakott piskóta
+    733. Rakott babapiskóta
+    734. Rakott babapiskóta másként
+    735. Eper Sarlott
+    736. Karamellbomba
+    737. Alma jóasszony módra
+    738. Gyümölcshab
+    739. Gesztenyekrém
+    740. Nagyszerű mandulás krém
+    741. Gyümölcskrém
+    742. Indiai puncshab
+    743. Kakaókrém
+    744. Karamellkrém pohárban
+    745. Kávékrém poharakban
+    746. Részeges ananász
+    747. Almahab (boszorkánykrém)
+    748. Barackhab
+    749. Málnahab
+    750. Almapüré
+    751. Töltött alma, körte
+    752. Alma besamelmártással
+    753. Tejfölös alma
+    754. Tojásos banán
+    755. Almasaláta
+    756. Cseresznyés almasaláta
+    757. Meleg csokoládés alma
+    758. Almaszalámi
+    759. Birsalmasajt
+    760. Puncsos őszibarack
+    761. Joghurtos őszibarackkrém
+    762. Vegyes gyümölcssaláta
+    763. Sült, habos meggy holland módon
+    764. Ribizlikrém
+    765. Makron (mandulamassza)
+
+Édes mártások, sodók
