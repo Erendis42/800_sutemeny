@@ -836,3 +836,12 @@ Vegyes édességek
     772. Vaníliasodó
 
 Fagylaltok
+
+    775. Citromfagylalt
+    776. Eper-, málna-, barack-, ribizli-, meggyfagylalt
+    777. Vaníliafagylalt
+    778. Karamellfagylalt
+    779. Kávéfagylalt
+    780. Gyors parfé
+
+Sütemények cukor nélkül
