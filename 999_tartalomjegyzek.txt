@@ -826,3 +826,13 @@ Vegyes édességek
     765. Makron (mandulamassza)
 
 Édes mártások, sodók
+
+    766. Vaníliamártás
+    767. Citrommártás
+    768. Karamellmártás
+    769. Kávémártás
+    770. Csokoládémártás
+    771. Borsodó
+    772. Vaníliasodó
+
+Fagylaltok
