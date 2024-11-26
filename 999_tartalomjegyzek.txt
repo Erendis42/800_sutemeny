@@ -845,3 +845,24 @@ Fagylaltok
     780. Gyors parfé
 
 Sütemények cukor nélkül
+
+    781. Mákos őzgerinc
+    782. Habos túrós kocka
+    783. Túrótorta őszibarackkal
+    784. Túrós párna
+    785. Meggyes lepény (zsírszegény)
+    786. Almapuding
+    787. Káposztás pogácsa
+    788. Burgonyás pogácsa
+    789. Finom burgonyapogácsa
+    790. Ribizlis lepény
+    791. Gyümölcsös női szeszély
+    792.  Sárgasütemény
+    793. sárgarépapuding
+    794. Püspökkenyér I.
+    795. Püspökkenyér II.
+    796. Aranykuglóf
+    797. Narancsos habszelet
+    798. Kávétorta
+    799. Túrós felfújt
+    800. Meggyes hordó
