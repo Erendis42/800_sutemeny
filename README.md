@@ -43,3 +43,10 @@ Tartalomjegyzék röviden:
 &nbsp;&nbsp;&nbsp;&nbsp;Édes mártások, sodók\
 &nbsp;&nbsp;&nbsp;&nbsp;Fagylaltok\
 &nbsp;&nbsp;&nbsp;&nbsp;Sütemények cukor nélkül
+\
+\
+\
+És a hátsó borító, csak itt, csak most, csak Nektek! :-)
+\
+\
+![hatso_borito](https://github.com/Erendis42/800_sutemeny/blob/main/sutik.jpg)
