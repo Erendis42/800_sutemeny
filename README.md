@@ -17,32 +17,32 @@ A könyvben pedig tudjátok ellenőrizni a kiválasztott receptet, bár nem tudo
 
 Tartalomjegyzék röviden:
 
-&nbsp;&nbsp;&nbsp;&nbsp;Előszó\
-&nbsp;&nbsp;&nbsp;&nbsp;Bevezető\
-&nbsp;&nbsp;&nbsp;&nbsp;Kelt tészták\
-&nbsp;&nbsp;&nbsp;&nbsp;Zsírban sült tészták\
-&nbsp;&nbsp;&nbsp;&nbsp;Rétestészták\
-&nbsp;&nbsp;&nbsp;&nbsp;Hajtogatott leveles vajastészták\
-&nbsp;&nbsp;&nbsp;&nbsp;Hájas tészták\
-&nbsp;&nbsp;&nbsp;&nbsp;Piskóták\
-&nbsp;&nbsp;&nbsp;&nbsp;Torták\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tortabevonatok\
-&nbsp;&nbsp;&nbsp;&nbsp;Kavart tészták\
-&nbsp;&nbsp;&nbsp;&nbsp;Omlós tészták vagy linzerek\
-&nbsp;&nbsp;&nbsp;&nbsp;Élesztős omlós tészták\
-&nbsp;&nbsp;&nbsp;&nbsp;Aprósütemények\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sós aprósütemények\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Édes aprósütemények\
-&nbsp;&nbsp;&nbsp;&nbsp;Szalalkális tészták\
-&nbsp;&nbsp;&nbsp;&nbsp;Mézestészták\
-&nbsp;&nbsp;&nbsp;&nbsp;Burgonyás tészták\
-&nbsp;&nbsp;&nbsp;&nbsp;Palacsinták\
-&nbsp;&nbsp;&nbsp;&nbsp;Felfújtak és pudingok\
-&nbsp;&nbsp;&nbsp;&nbsp;Morzsák\
-&nbsp;&nbsp;&nbsp;&nbsp;Vegyes édességek\
-&nbsp;&nbsp;&nbsp;&nbsp;Édes mártások, sodók\
-&nbsp;&nbsp;&nbsp;&nbsp;Fagylaltok\
-&nbsp;&nbsp;&nbsp;&nbsp;Sütemények cukor nélkül
+&nbsp;&nbsp;&nbsp;&nbsp;[Előszó](https://github.com/Erendis42/800_sutemeny/blob/main/000_minden.txt#L2)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Bevezető](https://github.com/Erendis42/800_sutemeny/blob/main/000_minden.txt#L32)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Kelt tészták](https://github.com/Erendis42/800_sutemeny/blob/main/000_minden.txt#L64)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Zsírban sült tészták](https://github.com/Erendis42/800_sutemeny/blob/main/000_minden.txt#L506)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Rétestészták](https://github.com/Erendis42/800_sutemeny/blob/main/000_minden.txt#L740)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Hajtogatott leveles vajastészták](https://github.com/Erendis42/800_sutemeny/blob/main/000_minden.txt#L827)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Hájas tészták](https://github.com/Erendis42/800_sutemeny/blob/main/000_minden.txt#L983)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Piskóták](https://github.com/Erendis42/800_sutemeny/blob/main/000_minden.txt#L1126)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Torták](https://github.com/Erendis42/800_sutemeny/blob/main/000_minden.txt#L2276)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tortabevonatok](https://github.com/Erendis42/800_sutemeny/blob/main/000_minden.txt#L3449)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Kavart tészták](https://github.com/Erendis42/800_sutemeny/blob/main/000_minden.txt#L3544)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Omlós tészták vagy linzerek](https://github.com/Erendis42/800_sutemeny/blob/main/000_minden.txt#L4241)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Élesztős omlós tészták](https://github.com/Erendis42/800_sutemeny/blob/main/000_minden.txt#L5396)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Aprósütemények](https://github.com/Erendis42/800_sutemeny/blob/main/000_minden.txt#L5724)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Sós aprósütemények](https://github.com/Erendis42/800_sutemeny/blob/main/000_minden.txt#L5732)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Édes aprósütemények](https://github.com/Erendis42/800_sutemeny/blob/main/000_minden.txt#L6351)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Szalalkális tészták](https://github.com/Erendis42/800_sutemeny/blob/main/000_minden.txt#L7025)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Mézestészták](https://github.com/Erendis42/800_sutemeny/blob/main/000_minden.txt#L7196)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Burgonyás tészták](https://github.com/Erendis42/800_sutemeny/blob/main/000_minden.txt#L7629)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Palacsinták](https://github.com/Erendis42/800_sutemeny/blob/main/000_minden.txt#L7869)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Felfújtak és pudingok](https://github.com/Erendis42/800_sutemeny/blob/main/000_minden.txt#L7997)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Morzsák](https://github.com/Erendis42/800_sutemeny/blob/main/000_minden.txt#L8473)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Vegyes édességek](https://github.com/Erendis42/800_sutemeny/blob/main/000_minden.txt#L8532)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Édes mártások, sodók](https://github.com/Erendis42/800_sutemeny/blob/main/000_minden.txt#L8935)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Fagylaltok](https://github.com/Erendis42/800_sutemeny/blob/main/000_minden.txt#L9004)\
+&nbsp;&nbsp;&nbsp;&nbsp;[Sütemények cukor nélkül](https://github.com/Erendis42/800_sutemeny/blob/main/000_minden.txt#L9060)
 \
 \
 \
