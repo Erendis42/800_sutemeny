@@ -15,7 +15,7 @@ A könyvben pedig tudjátok ellenőrizni a kiválasztott receptet, bár nem tudo
 
 (Megj.: Karácsonyra mi a 636-os mézes zserbót szoktuk készíteni, a 637-es krémjével, mert úgy egyszerűbb, mázat pedig nem teszünk rá.)
 
-Elkészült:
+Tartalomjegyzék röviden:
 
 &nbsp;&nbsp;&nbsp;&nbsp;Előszó\
 &nbsp;&nbsp;&nbsp;&nbsp;Bevezető\
@@ -42,7 +42,4 @@ Elkészült:
 &nbsp;&nbsp;&nbsp;&nbsp;Vegyes édességek\
 &nbsp;&nbsp;&nbsp;&nbsp;Édes mártások, sodók\
 &nbsp;&nbsp;&nbsp;&nbsp;Fagylaltok\
-\
-Folyamatban:\
-\
-&nbsp;&nbsp;&nbsp;&nbsp;Sütemények cukor nélkül  
+&nbsp;&nbsp;&nbsp;&nbsp;Sütemények cukor nélkül
