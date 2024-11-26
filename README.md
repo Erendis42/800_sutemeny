@@ -7,7 +7,7 @@
 A szövegért nem tudok felelősséget vállalni, minden igyekezetem ellenére nem 1000%, hogy mindent pontosan sikerült bepötyögnöm...
 
 ### Update:
-Szerencsére a google a barátom, ezért az 1990-es, 5. kiadást megtaláltam .pdf formátumban,\
+Szerencsére a google a barátom, ezért [az 1990-es, 5. kiadást](https://github.com/Erendis42/800_sutemeny/blob/main/sutemenyeskonyv_800_recept.pdf) megtaláltam .pdf formátumban,\
 ebben viszont sajnos nem tudtok szövegre keresni, ezért a gépelést folytatom, és ezt szintén itthagyom Nektek.\
 A könyvben pedig tudjátok ellenőrizni a kiválasztott receptet, bár nem tudom, mennyi különbség van a kiadások között — még nem volt lelki erőm végigbogarászni.
 
